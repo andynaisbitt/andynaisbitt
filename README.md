@@ -2,10 +2,6 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Andy+Naisbitt;Dev+%2B+Senior+SysAdmin;Building+Secure+Systems" alt="Typing SVG" />
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=andynaisbitt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="andynaisbitt" />
-  </a>
-
   <p align="center">
     <b>Full Stack Developer with a Systems Administration Background</b><br>
     <i>"I don't just write code that works; I build infrastructure that stays up."</i>
@@ -53,7 +49,7 @@
       <h3 align="center">Fast-React-CMS</h3>
       <div align="center">
         <a href="https://github.com/andynaisbitt/Fast-React-CMS">
-        <img src="https://via.placeholder.com/400x200/0d1117/ffffff?text=Secure+CMS+Screenshot" width="100%" alt="CMS Screenshot" />
+        <img src="https://private-user-images.githubusercontent.com/21346638/522733648-a913dc86-a4be-4d4e-936c-e1e31dba9466.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg4OTkzMzgsIm5iZiI6MTc2ODg5OTAzOCwicGF0aCI6Ii8yMTM0NjYzOC81MjI3MzM2NDgtYTkxM2RjODYtYTRiZS00ZDRlLTkzNmMtZTFlMzFkYmE5NDY2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIwVDA4NTAzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiYWFkNmI3YTg5MTFiMmQzY2MyZThlODE4M2RjMWI2MzA3NTkxODY1MzI3NmQzOWUyNGE1MThhYjA4NmVlZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ndk0ewHTnl_4BEQNqvq2Nw_O2YXKV8wI7jHLPGRHVck" width="100%" alt="CMS Screenshot" />
         </a>
       </div>
       <p align="center">
