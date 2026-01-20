@@ -1,82 +1,84 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Andy+Naisbitt;Dev+%2B+Senior+SysAdmin;Building+Secure+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Andy+Naisbitt;Full-Stack+Engineer+%2B+Senior+SysAdmin;Building+Secure%2C+Production-Ready+Systems" />
 
-  <p align="center">
-    <b>Full Stack Developer with a Systems Administration Background</b><br>
-    <i>"I don't just write code that works; I build infrastructure that stays up."</i>
-  </p>
+<b>Full-Stack Engineer with a Senior Systems Administration Background</b><br>
+<i>I build secure, production-ready systems end-to-end — from infrastructure and Linux servers to APIs and modern React frontends.</i>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/andy-naisbitt" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://theitapprentice.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Website" />
-    </a>
-  </p>
+<br><br>
+
+<a href="https://linkedin.com/in/andy-naisbitt">
+  <img src="https://img.shields.io/badge/LinkedIn-Andy%20Naisbitt-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://theitapprentice.com">
+  <img src="https://img.shields.io/badge/Portfolio-TheITApprentice-FF5722?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-### 🛠️ The Arsenal (Tech Stack)
+## 🧩 Professional Summary
 
-| **Frontend** | **Backend** | **DevOps & SysAdmin** |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+I build secure, production-ready systems end-to-end — from infrastructure and Linux servers to APIs and modern React frontends.
 
----
+10+ years across enterprise IT and hands-on software development, with a strong focus on security, automation, and reliability.
 
-### 🎨 Project Showcase
+Background in enterprise infrastructure engineering, progressing into full-stack development while maintaining a strong operational and security mindset.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">TheITApprentice LMS</h3>
-      <div align="center">
-        <a href="https://github.com/andynaisbitt/TheITApprentice-LMS">
-        <img src="https://via.placeholder.com/400x200/0d1117/ffffff?text=LMS+Dashboard+Screenshot" width="100%" alt="LMS Screenshot" />
-        </a>
-      </div>
-      <p align="center">
-        A custom Learning Management System built with TypeScript.<br/>
-        <a href="https://github.com/andynaisbitt/TheITApprentice-LMS">View Code</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Fast-React-CMS</h3>
-      <div align="center">
-        <a href="https://github.com/andynaisbitt/Fast-React-CMS">
-        <img src="https://private-user-images.githubusercontent.com/21346638/522733648-a913dc86-a4be-4d4e-936c-e1e31dba9466.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg4OTkzMzgsIm5iZiI6MTc2ODg5OTAzOCwicGF0aCI6Ii8yMTM0NjYzOC81MjI3MzM2NDgtYTkxM2RjODYtYTRiZS00ZDRlLTkzNmMtZTFlMzFkYmE5NDY2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIwVDA4NTAzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiYWFkNmI3YTg5MTFiMmQzY2MyZThlODE4M2RjMWI2MzA3NTkxODY1MzI3NmQzOWUyNGE1MThhYjA4NmVlZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ndk0ewHTnl_4BEQNqvq2Nw_O2YXKV8wI7jHLPGRHVck" width="100%" alt="CMS Screenshot" />
-        </a>
-      </div>
-      <p align="center">
-        Secure blog CMS with A+ security rating.<br/>
-        <a href="https://github.com/andynaisbitt/Fast-React-CMS">View Code</a>
-      </p>
-    </td>
-  </tr>
-</table>
+Currently building **Fast-React-CMS** and **TheITApprentice LMS**.
 
 ---
 
-### 📊 GitHub Analytics
+## 🛠️ Tech Stack
+
+| Frontend | Backend | DevOps / Infra |
+|--------|--------|----------------|
+| React • TypeScript | Python • FastAPI | Linux • Docker |
+| TailwindCSS | PostgreSQL | Nginx • Bash |
+| Zustand | Auth / Security | Git • CI/CD |
+
+---
+
+## 🚀 Featured Projects
+
+### **Fast-React-CMS**
+A secure, production-ready content management system built with **React**, **TypeScript**, and **FastAPI**.
+
+Focused on real-world deployment with:
+- HTTP-only cookies  
+- CSRF protection  
+- bcrypt hashing  
+- Rate limiting  
+- Hardened authentication  
+
+🔗 **Repo:** https://github.com/andynaisbitt/Fast-React-CMS
+
+
+---
+
+### **TheITApprentice LMS**
+A custom Learning Management System built with **TypeScript**, designed as a modular, scalable platform for future expansion.
+
+🔗 **Repo:** https://github.com/andynaisbitt/TheITApprentice-LMS
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/andynaisbitt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andynaisbitt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-  
-  <br/><br/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andynaisbitt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Andy's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=andynaisbitt&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andynaisbitt&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-### 🧩 Contributions
+## 🧬 Contributions Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andynaisbitt/andynaisbitt/output/github-contribution-grid-snake-dark.svg">
@@ -84,7 +86,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andynaisbitt/andynaisbitt/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=andynaisbitt&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=andynaisbitt&label=Profile+Views&color=blueviolet&style=flat-square" />
 </div>
