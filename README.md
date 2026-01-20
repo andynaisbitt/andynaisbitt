@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Andy+Naisbitt;Full-Stack+Engineer+%2B+Senior+SysAdmin;Building+Secure%2C+Production-Ready+Systems" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Andy+Naisbitt;Full-Stack+Engineer+%2B+Senior+SysAdmin;Security+•+Automation+•+Reliability"
+  alt="Typing SVG"
+/>
 
 <b>Full-Stack Engineer with a Senior Systems Administration Background</b><br>
 <i>I build secure, production-ready systems end-to-end — from infrastructure and Linux servers to APIs and modern React frontends.</i>
@@ -53,7 +56,6 @@ Focused on real-world deployment with:
 - Hardened authentication  
 
 🔗 **Repo:** https://github.com/andynaisbitt/Fast-React-CMS
-
 
 ---
 
