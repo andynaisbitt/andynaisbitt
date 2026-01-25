@@ -5,10 +5,10 @@
   alt="Typing SVG"
 />
 
-<b>Full-Stack Engineer with a Senior Systems Administration Background</b><br>
-<i>I build secure, production-ready systems end-to-end — from infrastructure and Linux servers to APIs and modern React frontends.</i>
+<b>Full-Stack Engineer with 10+ years in Enterprise Systems Engineering</b><br>
+<i>I build secure, production-ready systems end-to-end — from Linux infrastructure to APIs to modern React frontends.</i>
 
-<br><br>
+<br/>
 
 <a href="https://linkedin.com/in/andy-naisbitt">
   <img src="https://img.shields.io/badge/LinkedIn-Andy%20Naisbitt-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -23,46 +23,100 @@
 
 ## 🧩 Professional Summary
 
-I build secure, production-ready systems end-to-end — from infrastructure and Linux servers to APIs and modern React frontends.
+Senior SysAdmin turned Full-Stack Developer with a security-first approach.
 
-10+ years across enterprise IT and hands-on software development, with a strong focus on security, automation, and reliability.
+I build, deploy, and maintain production systems spanning:
 
-Background in enterprise infrastructure engineering, progressing into full-stack development while maintaining a strong operational and security mindset.
+- Linux servers & infrastructure  
+- Backend APIs (FastAPI / Node)  
+- Modern React + TypeScript frontends  
+- Authentication, sessions, data modelling  
+- CI/CD, Docker, Nginx, automation, hardening  
 
-Currently building **Fast-React-CMS** and **TheITApprentice LMS**.
+Currently building:
+
+- **Fast-React-CMS** — a fully custom CMS replacing WordPress for my own ecosystem  
+- **TheITApprentice LMS** — courses, lessons, quizzes, progress tracking  
+- **WordPress Extraction Tools** — Python Flask web app + C# WinForms desktop tool for converting WP XML into clean JSON imports
+
+---
+
+## 🔧 What I'm Working On (2026)
+
+### **TheITApprentice LMS**
+Fast, modular, and scalable LMS designed to integrate tightly with FastReactCMS.
+
+- TypeScript-first architecture  
+- Course → Lesson → Quiz flow  
+- User progression, enrolments, roles  
+- Will sync major features into FastReactCMS before v2  
+
+---
+
+### **WordPress Extraction Tools**
+Migrating old WordPress posts → FastReactCMS content.
+
+**Python + Flask Web Version**  
+- Parse XML from WP exports  
+- Extract posts, pages, metadata, categories, SEO  
+- Output structured JSON ready to import  
+
+**C# WinForms Version**  
+- Easy Windows GUI  
+- Drag → Preview → Export flow  
+- Perfect for non-technical users  
+
+These tools help me migrate my own legacy posts — but they’ll be useful for anyone wanting to escape WordPress bloat.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Frontend | Backend | DevOps / Infra |
+| Frontend | Backend | Infrastructure |
 |--------|--------|----------------|
 | React • TypeScript | Python • FastAPI | Linux • Docker |
-| TailwindCSS | PostgreSQL | Nginx • Bash |
-| Zustand | Auth / Security | Git • CI/CD |
+| TailwindCSS | Node.js • Auth | Nginx • Bash |
+| Zustand | PostgreSQL | Git • GitHub Actions |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### **Fast-React-CMS**
-A secure, production-ready content management system built with **React**, **TypeScript**, and **FastAPI**.
+A production-ready CMS built from scratch using React + TypeScript + FastAPI.
 
-Focused on real-world deployment with:
-- HTTP-only cookies  
+Security-first features include:
+- httpOnly sessions  
 - CSRF protection  
 - bcrypt hashing  
 - Rate limiting  
 - Hardened authentication  
 
-🔗 **Repo:** https://github.com/andynaisbitt/Fast-React-CMS
+🔗 **Repo:** https://github.com/andynaisbitt/Fast-React-CMS  
+🌐 **Live:** https://theitapprentice.com
 
 ---
 
 ### **TheITApprentice LMS**
-A custom Learning Management System built with **TypeScript**, designed as a modular, scalable platform for future expansion.
+Lightweight LMS designed to integrate natively with FastReactCMS.
+
+- Courses, lessons, quizzes  
+- Progress tracking  
+- Clean TypeScript architecture  
 
 🔗 **Repo:** https://github.com/andynaisbitt/TheITApprentice-LMS
+
+---
+
+### **WordPress Extraction Toolkit**
+A dual-project toolchain for converting WordPress XML exports into structured content.
+
+- **Python Flask Web Tool**  
+- **C# WinForms Desktop App**  
+
+Perfect for migrating content into custom CMS systems.
+
+🔗 **Repo:** https://github.com/andynaisbitt/WordPress-Export-Analyzer
 
 ---
 
